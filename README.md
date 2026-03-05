@@ -3,7 +3,7 @@
 A movie browsing web app built with **React** that allows users to explore movies using APIs.  
 Currently extending the project with a backend for more advanced features.  
 
-🌐 Live Demo: [Cinemasite](https://cinemasite-chi.vercel.app/)
+🌐 Live Demo: [Cinemasite](https://cinemasitee.vercel.app/)
 
 ---
 
